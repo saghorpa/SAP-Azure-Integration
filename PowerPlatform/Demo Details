@@ -1,1 +1,7 @@
+*** Power Apps functions *** 
+Get Flight List button function: Set(DatafromFlow,'demo-sap-flight'.Run())
+Clear button function: Set(DatafromFlow,'PowerApp->CreateHTMLtable,RespondtoaPowerApporflow'.Run())
+HTML text function: DatafromFlow.flightlist
 
+*** Power Automate (flow) ***
+SAP Function Name: BAPI_FLIGHT_GETLIST
