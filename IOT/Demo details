@@ -1,1 +1,7 @@
+*** Test request body ***
 
+{
+      "messageId": 3,
+    "temperature": 30.799999237060547,
+    "humidity": 41.400001525878906
+    }
